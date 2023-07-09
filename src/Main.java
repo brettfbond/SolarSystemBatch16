@@ -11,5 +11,11 @@ public class Main {
         adamx.name = "poya";
         adamx.temp = "123453 celcius";
         adamx.size = "435435km";
+
+        Planet2 Feon= new Planet2();
+        Feon.name="exo";
+        Feon.color="white";
+        Feon.temp="25 celcius";
+        Feon.size="1234billion km";
     }
 }
